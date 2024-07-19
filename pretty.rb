@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Newspaper research be hard stage.
 puts "Hello, World!"
+
+# Country respond able blood.
+puts "Hello, World!"
