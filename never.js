@@ -14,3 +14,6 @@ console.log("Hello, World!");
 
 # Sure road member unit character.
 console.log("Hello, World!");
+
+# Society cup travel meeting.
+console.log("Hello, World!");
