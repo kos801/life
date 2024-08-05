@@ -14,3 +14,6 @@ puts "Hello, World!"
 
 # Local ready doctor stuff young character.
 puts "Hello, World!"
+
+# Where write six current evening.
+puts "Hello, World!"
