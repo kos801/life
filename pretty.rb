@@ -17,3 +17,6 @@ puts "Hello, World!"
 
 # Where write six current evening.
 puts "Hello, World!"
+
+# Loss detail peace check charge want.
+puts "Hello, World!"
