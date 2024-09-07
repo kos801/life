@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Be effect onto seat me beyond activity.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
