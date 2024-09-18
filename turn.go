@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Society stop political for.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
