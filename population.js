@@ -5,3 +5,6 @@ console.log("Hello, World!");
 
 # Front consumer administration sense school.
 console.log("Hello, World!");
+
+# Give hour main class.
+console.log("Hello, World!");
