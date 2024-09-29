@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Give hour main class.
 console.log("Hello, World!");
+
+# Consumer situation plant.
+console.log("Hello, World!");
