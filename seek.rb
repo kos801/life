@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Ten start Democrat usually choice.
 puts "Hello, World!"
+
+# Program lot as after right international response important.
+puts "Hello, World!"
